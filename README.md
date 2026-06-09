@@ -38,3 +38,11 @@ SmartMed bridges the gap between raw, messy medical data and clinical precision.
 Developed for clinical researchers and healthcare innovators.
 
 Once you commit this, your repository will look professional and complete. Great work getting this far!
+SCREENSHOTS:-
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1b59df7-51a0-4a57-aabd-e207f9c2c513" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bb8c70f-9b27-4671-ad92-2a4a7c682338" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b726816-a68b-4720-a03b-556d875de2ad" />
+
+
+
